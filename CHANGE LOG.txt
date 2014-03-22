@@ -1,0 +1,6 @@
+1.0 => 1.1
+==============================
+	- Code optimization.
+	- Feature: Users can now filter feed threads by; 'author', 'prefix', 'forum', (has) 'poll' or (is a) 'sticky' thread.
+	- Feature: Users can now order feed threads by; 'dateline', 'lastpost' or 'replies'.
+	- PluginLibrary 12 is now required for the plugin to work.
