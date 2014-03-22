@@ -73,7 +73,7 @@ function ougc_portalfeed_info()
 		'version'		=> '1.1',
 		'versioncode'	=> 1100,
 		'compatibility'	=> '16*',
-		'guid'			=> '',
+		'guid'			=> 'd4ada16c00542cad9d0888e4bfb968b5',
 		'pl'			=> array(
 			'version'	=> 12,
 			'url'		=> 'http://mods.mybb.com/view/pluginlibrary'
